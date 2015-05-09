@@ -10,3 +10,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# eclipse directories and files
+.metadata/
+RemoteSystemsTempFiles/
+wayfarers-of-islandia-base/.classpath
+wayfarers-of-islandia-base/.project
+wayfarers-of-islandia-base/.settings/
+
+# maven target
+wayfarers-of-islandia-base/target/
